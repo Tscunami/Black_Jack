@@ -1,4 +1,4 @@
-# BlackJack Game
+# Blackjack Game
 
 Whole project is visible on:
 - https://repl.it/join/kvjkudto-luknplava
