@@ -1,9 +1,11 @@
 # Blackjack Game
 
 Whole project is visible on:
-- https://repl.it/join/kvjkudto-luknplava
+- https://repl.it/join/ckuphnpp-luknplava
 
 Description:
-- BlackJack is a game known as 21
-- It is a comparing card game between one or more players and a dealer, where each player in turn competes against the dealer.
-- https://www.wikiwand.com/en/Blackjack
+- This project uses two packages:
+ - Colorgram -> to extrack colors from an image
+ - Turtle -> to do the painting
+- The goal of this project is to try copy art from artist Damien Hirst, who sold similiar painting for hundred thousands of $
+
